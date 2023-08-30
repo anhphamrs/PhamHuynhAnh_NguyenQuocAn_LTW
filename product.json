@@ -1,0 +1,103 @@
+[
+    {
+        "id":1,
+        "name":"USB 128GB SanDisk SDCZ73-G46",
+        "img":"imgs/product_1.webp",
+        "brand":"SAMSUNG",
+        "description":"Khóa điện tử thông minh Samsung SHP-DH537 với thiết kế hoàn toàn mới và công nghệ hiện đại hơn các phiên bản tiền nhiệm.",
+        "price":3660000,
+        "afterdiscount":"4.900.000 ₫",
+        "discountpecent":"-25.31%"
+    },
+    {
+        "id":2,
+        "name":"USB 128GB SanDisk SDCZ73-G46",
+        "img":"imgs/product_2.webp",
+        "brand":"SAMSUNG",
+        "description":"Khóa điện tử thông minh Samsung SHP-DH537 với thiết kế hoàn toàn mới và công nghệ hiện đại hơn các phiên bản tiền nhiệm.",
+        "price":3660000,
+        "afterdiscount":"4.900.000 ₫",
+        "discountpecent":"-25.31%"
+    },
+    {
+        "id":3,
+        "name":"USB 64GB KINGSTON Data Traveler Exodia M",
+        "img":"imgs/product_9.webp",
+        "brand":"KINGSTON",
+        "description":"Khóa điện tử thông minh Samsung SHP-DH537 với thiết kế hoàn toàn mới và công nghệ hiện đại hơn các phiên bản tiền nhiệm.",
+        "price":89000,
+        "afterdiscount":"190.000 ₫",
+        "discountpecent":"-53.158%"
+    },
+    {
+        "id":4,
+        "name":"USB 256GB SANDISK SanDisk Extreme GO",
+        "img":"imgs/product_10.webp",
+        "brand":"SANDISK",
+        "description":"Khóa điện tử thông minh SANDISK SanDisk Extreme GO với thiết kế hoàn toàn mới và công nghệ hiện đại hơn các phiên bản tiền nhiệm.",
+        "price":1390000,
+        "afterdiscount":"1.490.000 ₫",
+        "discountpecent":"-6.711%"
+    },
+    {
+        "id":5,
+        "name":"USB 32GB Apacer AH353",
+        "img":"imgs/product_5.webp",
+        "brand":"APACER",
+        "description":"Khóa điện tử thông minh USB 32GB Apacer AH353 với thiết kế hoàn toàn mới và công nghệ hiện đại hơn các phiên bản tiền nhiệm.",
+        "price":130000,
+        "afterdiscount":"150.000 ₫",
+        "discountpecent":"-13.333%"
+    },
+    {
+        "id":6,
+        "name":"USB Kingston 32GB MicroDuo USB 3.0 + Micro USB - DTDUO3",
+        "img":"imgs/product_6.webp",
+        "brand":"KINGSTON",
+        "description":"Khóa điện tử thông minh Kingston 32GB với thiết kế hoàn toàn mới và công nghệ hiện đại hơn các phiên bản tiền nhiệm.",
+        "price":286000,
+        "afterdiscount":"454.000 ₫",
+        "discountpecent":"-37.004%"
+    },
+
+    {
+        "id":7,
+        "name":"USB Sandisk Ultra Luxe 16GB",
+        "img":"imgs/product_7.webp",
+        "brand":"SANDISK",
+        "description":"Khóa điện tử thông minh Sandisk Ultra Luxe với thiết kế hoàn toàn mới và công nghệ hiện đại hơn các phiên bản tiền nhiệm.",
+        "price":119000,
+        "afterdiscount":"190.000 ₫",
+        "discountpecent":"-37.368%"
+    },
+    {
+        "id":8,
+        "name":"USB 128GB SANDISK SDDDC2-0128-G46",
+        "img":"imgs/product_8.webp",
+        "brand":"SANDISK",
+        "description":"Khóa điện tử thông minh USB 128GB SANDISK với thiết kế hoàn toàn mới và công nghệ hiện đại hơn các phiên bản tiền nhiệm.",
+        "price":289000,
+        "afterdiscount":"490.000 ₫",
+        "discountpecent":"-41.02%"
+    },
+    {
+        "id":9,
+        "name":"USB 16GB SanDisk SDCZ48- U46",
+        "img":"imgs/product_3.webp",
+        "brand":"SANDISK",
+        "description":"Khóa điện tử thông minh SanDisk SDCZ48- U46 với thiết kế hoàn toàn mới và công nghệ hiện đại hơn các phiên bản tiền nhiệm.",
+        "price":79000,
+        "afterdiscount":"140.000 ₫",
+        "discountpecent":"-43.57%"
+    },
+    {
+        "id":10,
+        "name":"USB 64GB SanDisk SDDD2-G46",
+        "img":"imgs/product_4.webp",
+        "brand":"SANDISK",
+        "description":"Khóa điện tử thông minh SanDisk SDDD2-G46 với thiết kế hoàn toàn mới và công nghệ hiện đại hơn các phiên bản tiền nhiệm.",
+        "price":159000,
+        "afterdiscount":"260.000 ₫",
+        "discountpecent":"-38.846%"
+    }
+]

@@ -1,0 +1,215 @@
+.cart-head-title{
+    margin: 0px;
+    padding: 10px 0;
+    border-style: none;
+    border-width: 1px;
+    border-color: unset;
+    opacity: 1;
+    color: inherit;
+    font-weight: 700;
+    text-decoration: unset;
+    font-size: 24px;
+    line-height: 32px;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: unset;
+    max-width: unset;
+    min-width: unset;
+    transition: color 0.3s ease 0s;
+}
+.cart-head{
+    margin: 0px;
+    padding: 0px;
+    border-style: none;
+    border-width: 1px;
+    border-color: unset;
+    opacity: 1;
+    color: inherit;
+    font-weight: 400;
+    text-decoration: unset;
+    font-size: 13px;
+    line-height: 20px;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 1;
+    max-width: unset;
+    min-width: unset;
+    transition: color 0.3s ease 0s;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    gap:9px;
+}
+.cart-head a:link{
+    color: #82869E;
+}
+.cart-table{
+    width: 70%;
+    background-color: white;
+    padding: 10px;
+    border-radius: 5px;
+    min-height: 50vh;
+}
+.cart-total{
+    width: 30%;
+    background-color: white;
+    padding: 10px;
+    border-radius: 5px;
+    display: block;
+    height: min-content;
+}
+.cart-total p{
+   padding: 5px;
+}
+.cart-total-btn{
+    cursor: pointer;
+    border-radius: 4px;
+    overflow: hidden;
+    line-height: 1rem;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(20, 53, 195);
+    border-color: rgb(20, 53, 195);
+    color: rgb(255, 255, 255);
+    border-width: 1px;
+    border-style: solid;
+    user-select: none;
+    text-decoration: none;
+    position: relative;
+    width: 100%;
+    padding: 0.4rem 1rem;
+    margin: 1rem 0;
+    display: flex;
+    flex-direction: column;
+}
+.cart-total-wraper{
+    justify-content: space-between;
+}
+.table-head{
+    display: grid;
+    grid-template-columns: 50% 16.66% 16.66% 16.66%;
+    padding: 5px;
+}
+.table-head p:first-child{
+    font-size: 16px;
+}
+.table-head p{
+    margin: 0px;
+    padding: 0px;
+    border-style: none;
+    border-width: 1px;
+    border-color: unset;
+    opacity: 1;
+    color: inherit;
+    font-weight: 500;
+    text-decoration: unset;
+    font-size: 13px;
+    line-height: 20px;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: unset;
+    max-width: unset;
+    min-width: unset;
+    transition: color 0.3s ease 0s;
+}
+.table-head p:first-child ,.table-row div{
+    text-align: left;
+}
+.table-head p,.table-row div{
+    text-align: right;
+}
+.table-row{
+    display: grid;
+    grid-template-columns: 50% 16.66% 16.66% 16.66%;
+    padding: 5px;
+    
+}
+.table-row img{
+    width: 78px;
+    height: 80px;
+    border: 1px solid rgb(228, 229, 240);
+    margin-right: 10px;
+}
+.table-row .product-name{
+    white-space: normal !important;
+}
+.table-row p {
+    margin: 0px;
+    padding: 0px;
+    border-style: none;
+    border-width: 1px;
+    border-color: unset;
+    opacity: 1;
+    color: rgb(67, 70, 87);
+    font-weight: 400;
+    text-decoration: unset;
+    font-size: 13px;
+    line-height: 20px;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    max-width: unset;
+    min-width: unset;
+    transition: color 0.3s ease 0s;
+}
+.table-row p strong{
+   font-size: 16px;
+}
+.table-row .afterdiscount{
+    text-decoration: line-through;
+}
+input[type="number"] {
+    -webkit-appearance: textfield;
+    -moz-appearance: textfield;
+    appearance: textfield;
+  }
+  
+  input[type=number]::-webkit-inner-spin-button,
+  input[type=number]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+  }
+  
+  .number-input {
+    display: inline-flex;
+    position: relative;
+    width: 100%;
+  }
+  
+  
+  .number-input button {
+    outline:none;
+    -webkit-appearance: none;
+    background-color: transparent;
+    border: none;
+    align-items: center;
+    justify-content: center;
+    width: 2rem;
+    height: 2rem;
+    cursor: pointer;
+    margin: 0;
+    position: relative;
+  }
+  .number-input-wraper{
+    border: 2px solid #ddd;
+    position: absolute;
+    right: 0;
+  }
+  .number-input input[type=number] {
+    font-family: sans-serif;
+    width: 100%;
+    max-width: 2rem;
+    border: solid #ddd;
+    border-width: 0 2px;
+    font-size: 1rem;
+    height: auto;
+    font-weight: bold;
+    text-align: center;
+    font-weight: 600;
+  }
